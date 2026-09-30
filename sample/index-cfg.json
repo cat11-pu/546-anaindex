@@ -1,0 +1,12 @@
+{
+  "casefold": true,
+  "strip_marks": true,
+  "drop_non_letters": true,
+  "dedupe": true,
+  "min_len": 2,
+  "max_len": 28,
+  "ascii_only": false,
+  "key_family": "sorted",
+  "length_in_key": false,
+  "top_k": 3
+}
